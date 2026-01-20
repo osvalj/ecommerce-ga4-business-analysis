@@ -1,4 +1,15 @@
 # Ecommerce Performance Analysis with GA4
+# Ecommerce Performance Analysis with GA4
+
+![GA4](https://img.shields.io/badge/GA4-Analytics-blue)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-BI-lightblue)
+![SQL](https://img.shields.io/badge/SQL-Data-orange)
+![BigQuery](https://img.shields.io/badge/BigQuery-GCP-yellow)
+![Case Study](https://img.shields.io/badge/Project-Case_Study-success)
+![Portfolio](https://img.shields.io/badge/Use-Portfolio-informational)
+
+[![Dashboard](https://img.shields.io/badge/Dashboard-Looker_Studio-blueviolet)](https://lookerstudio.google.com/...)
+
 
 **Business-oriented analytics focused on growth and profitability**
 
