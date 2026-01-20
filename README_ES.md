@@ -83,4 +83,10 @@ Este proyecto no incluye un dashboard interactivo ni acceso directo a la fuente 
 
 Este proyecto refleja mi forma de trabajar como analista: partir de preguntas de negocio, utilizar los datos como herramienta de diagnóstico y centrar el análisis en insights accionables, no en métricas aisladas.
 
+## Dashboard interactivo (Looker Studio)
+
+Enlace (solo lectura): [Ver dashboard](https://lookerstudio.google.com/reporting/5d8e121e-9012-48df-955b-64c1a499e5d7/page/Ga1KF?s=gRdTCfEg2ow)
+
+Nota: El repositorio incluye capturas y el PDF como respaldo para revisión rápida; el dashboard interactivo permite explorar el análisis completo.
+
 
