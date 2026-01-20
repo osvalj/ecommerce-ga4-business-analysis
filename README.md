@@ -1,5 +1,4 @@
 # Ecommerce Performance Analysis with GA4
-# Ecommerce Performance Analysis with GA4
 
 ![GA4](https://img.shields.io/badge/GA4-Analytics-blue)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-BI-lightblue)
