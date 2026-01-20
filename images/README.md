@@ -91,3 +91,5 @@ El embudo de conversión muestra tasas de abandono muy elevadas, con un porcenta
 ---
 
 **Note:** This README is intended to provide context and interpretation for the visual assets stored in this folder. The complete business narrative and conclusions are documented in the main project README.
+
+Optional interactive version (view-only): [Open dashboard](https://lookerstudio.google.com/reporting/5d8e121e-9012-48df-955b-64c1a499e5d7/page/Ga1KF?s=gRdTCfEg2ow)
