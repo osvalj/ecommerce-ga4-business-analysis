@@ -85,7 +85,7 @@ This project reflects my approach to data analysis: starting from business quest
 
 ## Interactive Dashboard (Looker Studio)
 
-View-only link: [Open dashboard](https://lookerstudio.google.com/reporting/5d8e121e-9012-48df-955b-64c1a499e5d7/page/Ga1KF?s=gRdTCfEg2ow)
+View-only link:  
+[Open dashboard](https://lookerstudio.google.com/reporting/5d8e121e-9012-48df-955b-64c1a499e5d7/page/Ga1KF?s=gRdTCfEg2ow)
 
-Note: The repository includes static visual assets and a PDF backup for fast review; the interactive dashboard provides the full exploratory experience.
-
+Note: The repository includes static assets and documentation for quick review. The interactive dashboard provides full exploratory experience.
