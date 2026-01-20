@@ -88,6 +88,6 @@ Este proyecto refleja mi forma de trabajar como analista: partir de preguntas de
 Enlace (solo lectura):  
 [Ver dashboard](https://lookerstudio.google.com/reporting/5d8e121e-9012-48df-955b-64c1a499e5d7/page/Ga1KF?s=gRdTCfEg2ow)
 
-Nota: El repositorio incluye capturas y documentación estática para revisión rápida. El dashboard interactivo permite explorar el análisis completo.
+Nota: El repositorio incluye capturas y documentación estática para revisión rápida. El dashboard interactivo permite explorar el análisis.
 
 
